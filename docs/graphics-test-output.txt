@@ -1,0 +1,52 @@
+Godot Engine v4.6.3.stable.official.7d41c59c4 - https://godotengine.org
+
+PASS: Title scene instantiates
+PASS: Run spawns warrior and six enemies
+PASS: Movement and orientation: (0.0, -1.0)
+PASS: Movement and orientation: (0.0, 1.0)
+PASS: Movement and orientation: (-1.0, 0.0)
+PASS: Movement and orientation: (1.0, 0.0)
+PASS: Movement and orientation: (0.707107, 0.707107)
+PASS: Movement and orientation: (-0.707107, 0.707107)
+PASS: Movement and orientation: (0.707107, -0.707107)
+PASS: Movement and orientation: (-0.707107, -0.707107)
+PASS: Wall collision
+PASS: Obstacle collision
+PASS: Screen-to-world isometric mapping
+PASS: No target outside range
+PASS: Manual attack without target
+PASS: Attack cooldown
+PASS: Second combo strike
+PASS: Third combo strike
+PASS: Combo expires
+PASS: Target assistance chooses nearby forward enemy
+PASS: Real damage and ultimate charging
+PASS: No automatic attack
+PASS: Dodge starts
+PASS: No infinite dodge
+PASS: Early dodge invulnerability
+PASS: Dodge invulnerability expires before movement
+PASS: Dodge recovers
+PASS: Incomplete ultimate rejected
+PASS: Ultimate activates and consumes gauge
+PASS: Repeated transformation rejected
+PASS: Ultimate lasts twelve seconds
+PASS: Ultimate returns to normal
+PASS: Titan reduces damage but remains vulnerable
+PASS: Death cancels transformation
+PASS: Defeat screen
+PASS: Restart resets run
+PASS: Enemy telegraph precedes damage
+PASS: Enemy attack deals damage
+PASS: Combat reaches victory
+PASS: Pause
+PASS: Resume
+PASS: Analog joystick half deflection
+PASS: Second finger cannot cancel joystick
+PASS: Joystick release
+PASS: Simultaneous joystick and second-finger attack
+PASS: Attack finger release preserves joystick
+PASS: Swept motion prevents obstacle tunneling
+PASS: Integrated 60 Hz AI simulation reaches defeat
+PASS: Full combat simulation wins against undamaged enemies
+RESULT: 49 checks, 0 failures

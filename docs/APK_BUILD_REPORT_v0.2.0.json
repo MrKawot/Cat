@@ -1,0 +1,32 @@
+[
+  {
+    "apk": "CatMorph-arm64-v0.2.0-debug.apk",
+    "bytes": 32063030,
+    "sha256": "c0677c860aa76893282fa5ec830dd3542af9a0de26a840e181d04d9f09061868",
+    "version": "0.2.0",
+    "version_code": 2,
+    "abis": [
+      "arm64-v8a"
+    ],
+    "signature": "v2/v3 verified; same development certificate as 0.1.0",
+    "native_alignment": "16KB verified",
+    "graphics_and_fonts_included": true,
+    "android_device_test": false
+  },
+  {
+    "apk": "CatMorph-universel-v0.2.0-debug.apk",
+    "bytes": 89034602,
+    "sha256": "f621bb06e90c14927de3650646c039391350527f4d437c8ad5dcb9abd69a294e",
+    "version": "0.2.0",
+    "version_code": 2,
+    "abis": [
+      "arm64-v8a",
+      "armeabi-v7a",
+      "x86_64"
+    ],
+    "signature": "v2/v3 verified; same development certificate as 0.1.0",
+    "native_alignment": "16KB verified",
+    "graphics_and_fonts_included": true,
+    "android_device_test": false
+  }
+]

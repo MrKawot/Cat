@@ -1,0 +1,6 @@
+.godot/
+exports/
+*.tmp
+.local-runtime/
+*.keystore
+*.jks
